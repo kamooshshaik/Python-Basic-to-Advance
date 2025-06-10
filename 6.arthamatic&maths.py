@@ -89,12 +89,12 @@ print(math.e)
 print(math.sqrt(16))
 
 
-# Celing function -> always the round of the floating value to up
+# Celing function -> always the round off the floating value to up
 x = 8.11
 celing = math.ceil(x)
 print(celing)
 
-# Floor function -> always the round of the floating value to up
+# Floor function -> always the round off the floating value to down
 x = 8.11
 floor = math.floor(x)
 print(floor)
